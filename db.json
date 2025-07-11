@@ -30,7 +30,7 @@
     {
       "jar": "./jar/zxzj.jar",
       "key": "Wexzxzj",
-      "name": "🔰在线",
+      "name": "🎞️在线",
       "type": 3,
       "api": "csp_WexzxzjGuard",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "4K影厅",
-      "name": "🔰未来",
+      "name": "🎞️未来",
       "type": 1,
       "api": "http://110.42.66.100:12678/api.php",
       "playUrl": "json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
@@ -59,7 +59,7 @@
     },
     {
       "key":"测试",
-      "name":"🔰测试",
+      "name":"🎞️测试",
       "type":3,
       "playerType":2,
       "api":"./lib/AppYsV2.js",
@@ -68,7 +68,7 @@
       "header":{"User-Agent":"okhttp/3.12.11"}}},
       {
         "key": "1080影厅",
-        "name": "🔰瓜子",
+        "name": "🎞️瓜子",
         "type": 1,
         "api": "http://110.42.66.100:12678/hello/99/api.php",
         "playUrl": "json:http://110.42.66.100:12678/hello/99/jx.php?url=",
@@ -86,7 +86,7 @@
       },
      {
       "key":"星+星",
-      "name":"🔰双星",
+      "name":"🎞️双星",
       "type":3,
       "api":"csp_Star2Guard",
       "changeable":0,
@@ -97,7 +97,7 @@
     },
     {
       "key":"专属会员",
-      "name":"🔰专属",
+      "name":"🎞️专属",
       "type":3,
       "api":"./lib/drpy2.min.js",
       "ext":"./js/4KK.js",
@@ -108,7 +108,7 @@
     },
     {
       "key": "夸克多多弹幕",
-      "name": "📀多多",
+      "name": "🎞️多多",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -124,7 +124,7 @@
     },
     {
       "key": "玩偶弹幕",
-      "name": "📀玩偶",
+      "name": "🎞️玩偶",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -140,7 +140,7 @@
     },
     {
       "key": "闪电优汐",
-      "name": "📀闪电",
+      "name": "🎞️闪电",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -156,7 +156,7 @@
     },
     {
       "key": "木偶弹幕",
-      "name": "📀木偶",
+      "name": "🎞️木偶",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -172,7 +172,7 @@
     },
     {
       "key": "欧歌",
-      "name": "📀欧歌",
+      "name": "🎞️欧歌",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -188,7 +188,7 @@
     },
     {
       "key": "奥秘",
-      "name": "📀奥秘",
+      "name": "🎞️奥秘",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -204,7 +204,7 @@
     },
     {
       "key": "巧技",
-      "name": "🚀巧技",
+      "name": "🎞️巧技",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
@@ -213,7 +213,7 @@
     },
     {
       "key": "奴娜影视",
-      "name": "🚀奴娜",
+      "name": "🎞️奴娜",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -224,7 +224,7 @@
     {
       "jar": "./jar/bf.jar",
       "key": "暴风采集",
-      "name": "🚀暴风",
+      "name": "🎞️暴风",
       "type": 1,
       "api": "https://app.bfzyapi.com/api.php/provide/vod/",
       "playUrl": "",
@@ -255,7 +255,7 @@
     {
       "jar": "./jar/fix250524.jar",
       "key": "热播",
-      "name": "🚀热播",
+      "name": "🎞️热播",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
@@ -263,7 +263,7 @@
     },
     {
       "key": "爱家",
-      "name": "🚀爱家",
+      "name": "🎞️爱家",
       "type": 3,
       "playerType":2,
       "api": "./lib/AppYsV2.js",
@@ -273,7 +273,7 @@
           "header": {"User-Agent": "okhttp/3.12.11"}}},
     {
       "key": "量子",
-      "name": "🚀量子",
+      "name": "🎞️量子",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -299,7 +299,7 @@
     },
     {
 			"key": "布雷影视",
-			"name": "🚀布雷",
+			"name": "🎞️布雷",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"searchable": 1,
@@ -310,7 +310,7 @@
     {
       "jar":"./jar/174011140593766556c1b45aa6b5c432ec5feec6fdeb81740111402.jpg",
       "key":"蝴蝶",
-      "name":"🚀蝴蝶",
+      "name":"🎞️蝴蝶",
       "type":3,
       "api":"csp_Hudie",
       "playerType":2,
@@ -319,7 +319,7 @@
     {
       "jar":"https://chuanshuo.77blog.cn/chuanshuo.jar",
       "key":"csp_Kuaikan",
-      "name":"🚀快看",
+      "name":"🎞️快看",
       "type":3,
       "api":"csp_Kuaikan",
       "searchable":1,
@@ -329,7 +329,7 @@
     {
       "jar": "http://211.154.28.50:5898/kkw/巧记411qtc.jar",
       "key": "追剧",
-      "name": "🚀追剧",
+      "name": "🎞️追剧",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
@@ -337,7 +337,7 @@
     },
     {
       "key": "韩小圈",
-      "name": "🚀韩剧",
+      "name": "🎞️韩剧",
       "type": 3,
       "api": "csp_HanXiaoQuan",
       "jar":"./jar/潇洒.jar",
@@ -347,7 +347,7 @@
     },
     {
       "key": "卧龙资源",
-      "name": "🚀卧龙",
+      "name": "🎞️卧龙",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
@@ -360,7 +360,7 @@
     },
     {
       "key": "小虎斑",
-      "name": "📀小虎",
+      "name": "🎞️小虎",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -377,7 +377,7 @@
     {
       "jar":"https://pan.baidu.re/view.php/71bfdbbc0de9309486e62e9e40584158.jpg",
       "key": "荐片",
-      "name": "📀荐片",
+      "name": "🎞️荐片",
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "2"
@@ -385,7 +385,7 @@
     {
       "jar": "./jar/wudixiaomi.jar",
       "key": "csp_SP360",
-      "name": "🚀解析",
+      "name": "🎞️解析",
       "type": 3,
       "changeable": 0,
       "api": "csp_SP360"
@@ -399,7 +399,7 @@
     },
     {
       "key":"MX动漫",
-      "name":"🚀MX动漫",
+      "name":"🎞️MX动漫",
       "type":3,
       "api":"csp_XBPQ",
       "ext":{"简介":"简介：&&</p >",
@@ -412,7 +412,7 @@
     },
     {
       "key": "修罗影视",
-      "name": "🧲修罗",
+      "name": "🎞️修罗",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -423,7 +423,7 @@
     {
       "jar": "./jar/spider2.jar",
       "key": "New6v",
-      "name": "🧲New6V",
+      "name": "🎞️New6V",
       "type": 3,
       "api": "csp_New6v",
       "searchable": 1,
@@ -433,7 +433,7 @@
     },
     {
       "key": "csp_XYQHikerdyx",
-      "name": "🧲影港",
+      "name": "🎞️影港",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -445,7 +445,7 @@
     {
       "jar":"./jar/1spider.jar",
       "key": "电影天堂",
-      "name": "🧲天堂",
+      "name": "🎞️天堂",
       "type": 3,
       "api": "csp_DyGod",
       "searchable": 1,
@@ -495,7 +495,7 @@
             }
         }, 
     {
-      "name": "呕吼",
+      "name": "云天",
       "type": 1,
       "url": "http://8.129.30.117:582/api/?key=wu18685408360&url=",
             "ext": {
@@ -525,7 +525,7 @@
             }
         }, 
     {
-      "name": "呕吼1",
+      "name": "云天1",
       "type": 1,
       "url": "http://8.129.30.117:582/api/?key=新陆游聚合&url=",
       "ext": {
@@ -547,7 +547,7 @@
           "User-Agent": "okhttp/4.9.1"
           }}},
     {
-      "name": "呕吼2",
+      "name": "云天2",
       "type": 1,
       "url": "https://qx.258654.xyz:88/Analysis?url=",
       "ext": {
@@ -565,7 +565,7 @@
           "User-Agent": "okhttp/4.9.1"
           }}},
           {
-      "name": "呕吼3",
+      "name": "云天3",
       "type": 1,
       "url": "http://kcjx.zwzs.fun/json.php?url=",
       "ext": {
@@ -574,7 +574,7 @@
           "User-Agent": "okhttp/4.9.1"
           }}},
     {
-      "name": "呕吼4",
+      "name": "云天4",
       "type": 1,
       "url": "http://43.139.94.96:8866/api/?key=7e67ab331ee255664f2989ca2171c2dd&url=",
       "ext": {
@@ -583,7 +583,7 @@
           "User-Agent": "okhttp/4.9.1"
           }}},
           {
-      "name": "呕吼5",
+      "name": "云天5",
       "type": 1,
       "url": "http://154.40.47.87:6699/hdr9/?url=",
       "ext": {
@@ -601,7 +601,7 @@
           "User-Agent": "okhttp/4.9.1"
           }}},
     {
-      "name": "呕吼6",
+      "name": "云天6",
       "type": 1,
       "url": "http://110.40.40.242:2233/api/?key=7a5478c0dc7c413e83fe0b678761ba98&url=",
       "ext": {
@@ -636,7 +636,7 @@
       }
     },
     {
-      "name": "呕吼7",
+      "name": "云天7",
       "type": 1,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -665,7 +665,7 @@
       }
     },
     {
-      "name": "呕吼8",
+      "name": "云天8",
       "type": 1,
       "url": "https://www.yemu.xyz/?url=",
       "ext": {
@@ -694,7 +694,7 @@
       }
     },
     {
-      "name": "呕吼9",
+      "name": "云天9",
       "type": 1,
       "url": "https://www.pangujiexi.com/pangu/?url=",
       "ext": {
@@ -721,7 +721,7 @@
       }
     },
     {
-      "name": "呕吼10",
+      "name": "云天10",
       "type": 1,
       "url": "https://jx.m3u8.tv/jiexi/?url=",
       "ext": {
