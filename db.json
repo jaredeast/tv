@@ -31,7 +31,7 @@
     "type": 3,
     "api": "csp_Douban",
     "jar": "./jar/XBPQ.jar",
-    "ext": "./js/豆瓣.js",
+    "ext": "./json/douban.json",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
