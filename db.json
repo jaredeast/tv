@@ -30,7 +30,7 @@
     "name": "🎬豆瓣推荐",
     "type": 3,
     "api": "csp_Douban",
-    "jar": "./jar/gao.jar",
+    "jar": "./jar/XBPG.jar",
     "ext": "./js/豆瓣.js",
     "searchable": 1,
     "quickSearch": 1,
