@@ -1,6 +1,6 @@
 {
   "logo": "https://gitee.com/q309972108/tv/raw/master/tv/640.gif",
-  "spider": "./jar/潇洒1.jar",
+  "spider": "./jar/fan.txt;md5;6c4ab3a9d232164c75534f9060506ee5",
   "lives": [
     {
       "name": "live",
