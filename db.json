@@ -14,6 +14,17 @@
   ],
   "sites": [
     {
+    "key": "Douban",
+    "name": "🎬豆瓣推荐",
+    "type": 3,
+    "api": "csp_Douban",
+    "jar": "./jar/XBPQ.jar",
+    "ext": "./json/douban.json",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+    }
+    {
       "key": "2K影厅",
       "name": "🚀云天",
       "type": 1,
@@ -25,17 +36,6 @@
       "filterable": 1,
       "header": "json"
     },
-    {
-    "key": "Douban",
-    "name": "🎬豆瓣推荐",
-    "type": 3,
-    "api": "csp_Douban",
-    "jar": "./jar/XBPQ.jar",
-    "ext": "./json/douban.json",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-    }
     {
       "jar": "./jar/zxzj.jar",
       "key": "Wexzxzj",
