@@ -16,15 +16,6 @@
     {"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key":"百度","name":"百度┃采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
     {
-      "jar": "./jar/zxzj.jar",
-      "key": "Wexzxzj",
-      "name": "🔰在线",
-      "type": 3,
-      "api": "csp_WexzxzjGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "2K影厅",
       "name": "🚀云天",
       "type": 1,
@@ -35,6 +26,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "header": "json"
+    },
+    {
+      "jar": "./jar/zxzj.jar",
+      "key": "Wexzxzj",
+      "name": "🔰在线",
+      "type": 3,
+      "api": "csp_WexzxzjGuard",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "4K影厅",
