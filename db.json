@@ -5,7 +5,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gitee.com/felixlii/felix/raw/master/zb.txt",
+      "url": "https://raw.githubusercontent.com/jaredeast/tv/refs/heads/main/zb.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
