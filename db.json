@@ -13,11 +13,11 @@
     }
   ],
   "sites": [
-    {"key":"豆豆","name":"⭐豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {"key":"百度","name":"⭐度度┃采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+    {"key":"豆豆","name":"⭐云天影厅","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key":"百度","name":"⭐SVIP","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
     {
       "key": "2K影厅",
-      "name": "⭐云天",
+      "name": "⭐VIP",
       "type": 1,
       "api": "http://8.138.118.2:90/api.php/provide/vod/",
       "playUrl": "json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
