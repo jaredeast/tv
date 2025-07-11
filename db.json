@@ -14,18 +14,7 @@
   ],
   "sites": [
     {"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {
-      "key": "2K影厅",
-      "name": "🚀云天",
-      "type": 1,
-      "api": "http://8.138.118.2:90/api.php/provide/vod/",
-      "playUrl": "json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "header": "json"
-    },
+
     {
       "jar": "./jar/zxzj.jar",
       "key": "Wexzxzj",
