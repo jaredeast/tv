@@ -26,6 +26,17 @@
       "header": "json"
     },
     {
+    "key": "Douban",
+    "name": "🎬豆瓣推荐",
+    "type": 3,
+    "api": "csp_Douban",
+    "jar": "./jar/gao.jar",
+    "ext": "./js/豆瓣.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+    }
+    {
       "jar": "./jar/zxzj.jar",
       "key": "Wexzxzj",
       "name": "🔰在线",
