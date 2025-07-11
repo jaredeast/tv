@@ -30,7 +30,7 @@
     {
       "jar": "./jar/zxzj.jar",
       "key": "Wexzxzj",
-      "name": "🎞️在线",
+      "name": "📺在线",
       "type": 3,
       "api": "csp_WexzxzjGuard",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "4K影厅",
-      "name": "🎞️未来",
+      "name": "📺未来",
       "type": 1,
       "api": "http://110.42.66.100:12678/api.php",
       "playUrl": "json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
@@ -392,7 +392,7 @@
     },
     {
       "key": "NT动漫",
-      "name": "🚀NT动漫",
+      "name": "📺NT动漫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/NT动漫.js"
