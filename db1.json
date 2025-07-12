@@ -16,25 +16,18 @@
   "sites": [
     {"key":"豆豆","name":"⭐云天影厅","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     
-{"key":"旺旺资源","name":"旺旺","type":1,"api":"
-https://api.wwzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"categories":["国产剧","韩国剧","国产动漫","伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","台湾剧","韩国剧","纪录片","动画片","日本剧","泰国剧","欧美剧","日本动漫","欧梅动漫","海外动漫","电影解说","大陆综艺","港台综艺","韩国综艺","欧梅综艺","其他剧"]},
+{"key":"旺旺资源","name":"旺旺","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["内地剧","韩剧","中国动漫","伦理片","日剧","泰剧","港澳剧","台湾剧","欧美剧","电影","电视剧","动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","动漫电影","伦理片","体育","短剧"]},
+
+{"key":"矩阵资源","name":"矩阵","type":1,"api":"http://api.di4k.com/api/?key=ERA6Byb9MQ2qAwjJQi&ur","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["内地剧","韩剧","中国动漫","伦理片","日剧","泰剧","港澳剧","台湾剧","欧美剧","电影","电视剧","动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","动漫电影","伦理片","体育","短剧"]},
+
+{"key":"扶风资源","name":"扶风","type":1,"api":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url=","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["内地剧","韩剧","中国动漫","伦理片","日剧","泰剧","港澳剧","台湾剧","欧美剧","电影","电视剧","动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","动漫电影","伦理片","体育","短剧"]},
+
+{"key":"阿里资源","name":"阿里","type":1,"api":"https://alivod.com/api.php/provide/vod/","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["内地剧","韩剧","中国动漫","伦理片","日剧","泰剧","港澳剧","台湾剧","欧美剧","电影","电视剧","动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","动漫电影","伦理片","体育","短剧"]},
+
+{"key":"无忧资源","name":"无忧","type":1,"api":"https://www.wyvod.com/api.php/provide/vod/","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["内地剧","韩剧","中国动漫","伦理片","日剧","泰剧","港澳剧","台湾剧","欧美剧","电影","电视剧","动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","动漫电影","伦理片","体育","短剧"]},
 
 
-{"key":"矩阵资源","name":"矩阵","type":1,"api":"
-http://api.di4k.com/api/?key=ERA6Byb9MQ2qAwjJQi&ur","searchable":1,"quickSearch":1,"playerType":2,"categories":["国产剧","韩国剧","国产动漫","伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","台湾剧","韩国剧","纪录片","动画片","日本剧","泰国剧","欧美剧","日本动漫","欧梅动漫","海外动漫","电影解说","大陆综艺","港台综艺","韩国综艺","欧梅综艺","其他剧"]},
-
-{"key":"扶风资源","name":"扶风","type":1,"api":"
-https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url=","searchable":1,"quickSearch":1,"playerType":2,"categories":["国产剧","韩国剧","国产动漫","伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","台湾剧","韩国剧","纪录片","动画片","日本剧","泰国剧","欧美剧","日本动漫","欧梅动漫","海外动漫","电影解说","大陆综艺","港台综艺","韩国综艺","欧梅综艺","其他剧"]},
-
-{"key":"阿里资源","name":"阿里","type":1,"api":"
-https://alivod.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"categories":["国产剧","韩国剧","国产动漫","伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","台湾剧","韩国剧","纪录片","动画片","日本剧","泰国剧","欧美剧","日本动漫","欧梅动漫","海外动漫","电影解说","大陆综艺","港台综艺","韩国综艺","欧梅综艺","其他剧"]},
-
-{"key":"无忧资源","name":"无忧","type":1,"api":"
-https://www.wyvod.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"categories":["国产剧","韩国剧","国产动漫","伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","台湾剧","韩国剧","纪录片","动画片","日本剧","泰国剧","欧美剧","日本动漫","欧梅动漫","海外动漫","电影解说","大陆综艺","港台综艺","韩国综艺","欧梅综艺","其他剧"]},
-
-http:/iisfu.dynv6.net:91/api/?key=YTZkMmViODBIYiM3NmNmNzUxNA0ZDUzMGQwYmlz0GQ
-{"key":"豆瓣资源","name":"豆瓣","type":1,"api":"
-http:/iisfu.dynv6.net:91/api/?key=YTZkMmViODBIYiM3NmNmNzUxNA0ZDUzMGQwYmlz0GQ","searchable":1,"quickSearch":1,"playerType":2,"categories":["国产剧","韩国剧","国产动漫","伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","台湾剧","韩国剧","纪录片","动画片","日本剧","泰国剧","欧美剧","日本动漫","欧梅动漫","海外动漫","电影解说","大陆综艺","港台综艺","韩国综艺","欧梅综艺","其他剧"]},
+{"key":"瓣资源","name":"瓣","type":1,"api":"http:/iisfu.dynv6.net:91/api/?key=YTZkMmViODBIYiM3NmNmNzUxNA0ZDUzMGQwYmlz0GQ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["内地剧","韩剧","中国动漫","伦理片","日剧","泰剧","港澳剧","台湾剧","欧美剧","电影","电视剧","动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","动漫电影","伦理片","体育","短剧"]},
 
 {"key":"zy_如意资源","name":"💎如意RY🍎2","type":1,"api":"https://cj.rycjapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"categories":["国产剧","韩国剧","国产动漫","伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","台湾剧","韩国剧","纪录片","动画片","日本剧","泰国剧","欧美剧","日本动漫","欧梅动漫","海外动漫","电影解说","大陆综艺","港台综艺","韩国综艺","欧梅综艺","其他剧"]},
 
