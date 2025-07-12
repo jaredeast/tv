@@ -38,6 +38,15 @@
       "changeable": 1
     },
     {
+      "key": "wolong",
+      "name": "卧龙",
+      "type": 3,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "4K影厅",
       "name": "🟢未来",
       "type": 1,
