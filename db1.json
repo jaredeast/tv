@@ -40,9 +40,7 @@
     {"key":"api_卧龙资源🎯","name":"🎯卧龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/api卧龙.json","jar": "./jar/HCCX.jar"},
     {"key":"api_魔爪资源🎯","name":"🎯魔爪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/api魔爪.json", "jar": "./jar/HCCX.jar"},
     {"key":"api_如意资源🎯","name":"🎯如意","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/api如意.json", "playUrl":"https://ryplayer.com?url=", "jar": "./jar/HCCX.jar"},
-    {"key":"api_快看","name":"🎯快看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/api快看.json","jar": "./jar/HCCX.jar"},
-
-
+    {"key":"api_快看","name":"🎯快看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/api快看.json","jar": "./jar/HCCX.jar"}
   ],
   "parses": [
     {
