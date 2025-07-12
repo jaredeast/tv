@@ -28,6 +28,123 @@
       "filterable": 1,
       "header": "json"
     },
+        {
+      "key": "gctf",
+      "name": "光彩影视",
+      "type": 3,
+      "api": "https://gctf.tfdfh.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wyvod",
+      "name": "WY影视",
+      "type": 3,
+      "api": "https://www.wyvod.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "heimuer",
+      "name": "黑木耳",
+      "type": 3,
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wolong",
+      "name": "卧龙",
+      "type": 3,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "alivod",
+      "name": "Ali影视",
+      "type": 3,
+      "api": "https://alivod.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mozhu",
+      "name": "墨竹",
+      "type": 3,
+      "api": "https://mozhuazy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "youxidc",
+      "name": "游戏DC",
+      "type": 3,
+      "api": "https://cj.youxidc.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dbzy",
+      "name": "DB资源",
+      "type": 3,
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lizai",
+      "name": "梨仔",
+      "type": 3,
+      "api": "https://cj.lizaiapi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "rycj",
+      "name": "如意采集",
+      "type": 3,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wujin",
+      "name": "无尽影视",
+      "type": 3,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wxyz",
+      "name": "无忧资源",
+      "type": 3,
+      "api": "https://api.wxyz.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jszy",
+      "name": "JS资源",
+      "type": 3,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
     {
       "jar": "./jar/zxzj.jar",
       "key": "Wexzxzj",
