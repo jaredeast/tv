@@ -25,7 +25,7 @@
     },
     {
       "key": "zy_黑木耳资源",
-      "name": "🟢黑木耳",
+      "name": "🟢木耳",
       "type": 1,
       "api": "https://json.heimuer.xyz/api.php/provide/vod/",
       "searchable": 1,
@@ -117,7 +117,7 @@
     },
     {
       "key": "MX动漫",
-      "name": "🟢MX动漫",
+      "name": "🟢动漫",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -152,13 +152,6 @@
           "User-Agent": "okhttp/3.12.11"
         }
       }
-    },
-    {
-      "key": "csp_SP360",
-      "name": "🟢解析",
-      "type": 3,
-      "changeable": 0,
-      "api": "csp_SP360"
     }
   ],
   "parses": [
