@@ -35,12 +35,6 @@
     {"jar": "./jar/wudixiaomi.jar","key": "csp_SP360","name": "🟢解析","type": 3,"changeable": 0,"api": "csp_SP360"},
     {"key":"MX动漫","name":"🟢MX动漫","type":3,"api":"csp_XBPQ","ext":{"简介":"简介：&&</p >","链接": "href=\"&&\"","搜索模式": "1","搜索url": "https://www.mxdm6.com/search/-------------.html?wd=","分类url":"https://www.mxdm6.com/label/top.html","分类":"国漫&日漫&动漫电影&欧美动漫","分类值":"guoman&riman&dmdianying&oman"}},
     {"key": "修罗影视","name": "🟢修罗","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/修罗影视.json"},
-    {"key":"api_黑木耳🎯","name":"🎯黑木耳","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/api黑木耳.json", "playUrl":"https://hoplayer.com/index.html?url=", "jar": "./jar/HCCX.jar"},
-    {"key":"api_量子资源🎯","name":"🎯量子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/api量子.json","jar": "./jar/HCCX.jar"},
-    {"key":"api_卧龙资源🎯","name":"🎯卧龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/api卧龙.json","jar": "./jar/HCCX.jar"},
-    {"key":"api_魔爪资源🎯","name":"🎯魔爪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/api魔爪.json", "jar": "./jar/HCCX.jar"},
-    {"key":"api_如意资源🎯","name":"🎯如意","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/api如意.json", "playUrl":"https://ryplayer.com?url=", "jar": "./jar/HCCX.jar"},
-    {"key":"api_快看","name":"🎯快看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/api快看.json","jar": "./jar/HCCX.jar"}
   ],
   "parses": [
     {
