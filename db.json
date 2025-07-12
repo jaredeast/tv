@@ -12,9 +12,9 @@
       "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     }
   ],
-  "wallpaper":"https://raw.githubusercontent.com/jaredeast/tv/refs/heads/main/bj1.jpeg",
+  "wallpaper":"https://深色壁纸.xxooo.cf/",
   "sites": [
-    {"key":"豆豆","name":"⭐云天影院","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key":"豆豆","name":"⭐云天影厅","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key":"百度","name":"⭐SVIP","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
     {
       "key": "2K影厅",
