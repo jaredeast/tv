@@ -38,10 +38,10 @@
       "changeable": 1
     },
     {
-      "key": "wolong",
-      "name": "卧龙",
+      "key": "wxyz",
+      "name": "无忧资源",
       "type": 3,
-      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "api": "https://api.wxyz.tv/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
