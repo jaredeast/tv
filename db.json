@@ -12,7 +12,7 @@
       "epg": "https://diyp1.112114.xyz/?ch={name}&date={date}"
     }
   ],
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "wallpaper": "https://raw.githubusercontent.com/jaredeast/tv/refs/heads/main/bj1.jpeg",
   "sites": [
     {"key":"豆瓣","name":"⭐云天影院","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"changeable":1,"ext":"./json/douban.json"},
     {
