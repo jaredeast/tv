@@ -1,6 +1,6 @@
 {
   "logo": "https://raw.githubusercontent.com/jaredeast/tv/refs/heads/main/2.png",
-  "spider": "./jar/fan.txt;md5;6c4ab3a9d232164c75534f9060506ee5",
+  "spider": "./jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
   "lives": [
     {
       "name": "live",
@@ -14,16 +14,7 @@
   ],
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
-    {
-      "key": "豆豆",
-      "name": "⭐云天影厅",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "playerType": 2
-    },
+    {"key":"豆瓣","name":"⭐云天影院","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"changeable":1,"ext":"./json/douban.json"},
     {
       "key": "zy_黑木耳资源",
       "name": "🟢木耳",
