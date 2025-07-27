@@ -14,7 +14,7 @@
   ],
   "wallpaper": "https://raw.githubusercontent.com/jaredeast/tv/refs/heads/main/bj1.jpeg",
   "sites": [
-    {"key":"豆瓣","name":"⭐云天影院","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"changeable":1,"ext":"./json/douban.json"},
+    {"key":"豆瓣","name":"⭐官桥影院","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"changeable":1,"ext":"./json/douban.json"},
     {
       "key": "zy_黑木耳资源",
       "name": "🟢木耳",
