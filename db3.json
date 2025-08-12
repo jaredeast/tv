@@ -111,6 +111,7 @@
       "name": "🟢量子",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playUrl": "json:https://lziplayer.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -304,7 +305,8 @@
         "综艺",
         "动漫",
         "短剧"
-      ]
+      ],
+      "playUrl": "json:http://110.42.66.100:12678/hello/99/jx.php?url=",
     },
     {
       "key": "百度",
@@ -375,6 +377,7 @@
       "name": "🟢云天",
       "type": 1,
       "api": "http://8.138.118.2:90/api.php/provide/vod/",
+      "playUrl": "json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
