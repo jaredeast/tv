@@ -1,14 +1,3 @@
-您好！我已根据我们之前的讨论，对您提供的 `db3.json` 文件进行了修改。
-
-我按照以下原则进行了优化和修复：
-
-1.  **站点列表去重**：我根据站点的 `name` 字段，删除了所有重复的站点条目，只保留了第一次出现的记录。
-2.  **标准化配置**：我将所有站点的 `search` 字段统一转换为了 `searchable`、`quickSearch` 和 `filterable` 这三个更详细的字段，以确保配置的一致性。
-3.  **解析源清理**：我删除了 `parses` 列表中无效的或明显重复的解析源，例如 `"解析聚合"`、`"Json并发"` 以及多个名称相似的 `"云天"` 解析，只保留了一个代表性的版本。
-
-以下是修复和优化后的完整 `db3.json` 文件内容，您可以直接使用：
-
-```json
 {
   "logo": "https://raw.githubusercontent.com/jaredeast/tv/refs/heads/main/2.png",
   "spider": "./jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
@@ -1573,4 +1562,3 @@
     "vip.ffzyad.com"
   ]
 }
-```
